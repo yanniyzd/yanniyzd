@@ -52,11 +52,12 @@ No solo programo… **diseño soluciones escalables.**
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanniyzd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniyzd&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=yanniyzd&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniyzd&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanniyzd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
+
 ---
 
 ## 🎯 Objetivo Profesional
