@@ -52,10 +52,11 @@ No solo programo… **diseño soluciones escalables.**
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanniyzd&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanniyzd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniyzd&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniyzd&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=yanniyzd&theme=tokyonight)
 ---
 
 ## 🎯 Objetivo Profesional
@@ -72,7 +73,7 @@ Convertirme en un Ingeniero de Sistemas capaz de:
 ## 📫 Contacto
  
 - 📧 Email: yanniyazid@email.com  
-- 🌐 Portafolio: ![Link](https://yanniyzd.github.io/portafolio/)  
+- 🌐 Portafolio: https://yanniyzd.github.io/portafolio/
 
 ---
 
